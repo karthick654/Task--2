@@ -1,0 +1,28 @@
+.image{
+	height:200;
+}
+.photo{
+	background-color:white;
+	margin:auto;
+	padding:135px;
+	display:flex;
+}
+.description{
+	text-align:center;
+	
+}
+.c1{
+	
+    border: 13px solid black;
+    margin-left: 86px;
+    margin-top: 41px;
+    padding-right: 0px;
+}
+}
+}
+body {
+    margin-top: 57px;
+    margin-left: 128px;
+	background-color:black;
+}
+
